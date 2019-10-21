@@ -1,0 +1,12 @@
+@echo off
+md C:\kurs\rosliny\kwiaty\bratek
+md C:\kurs\rosliny\kwiaty\lilia
+md C:\kurs\rosliny\kwiaty\tulipan
+md C:\kurs\rosliny\kwiaty\narcyz
+md C:\kurs\rosliny\drzewa\iglaste
+md C:\kurs\rosliny\drzewa\iglaste\sosna
+md C:\kurs\rosliny\drzewa\iglaste\swierk
+md C:\kurs\rosliny\drzewa\iglaste\jodla
+md C:\kurs\rosliny\drzewa\lisciaste\brzoza
+md C:\kurs\rosliny\drzewa\lisciaste\topola
+pause
