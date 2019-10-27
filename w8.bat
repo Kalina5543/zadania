@@ -7,7 +7,7 @@ if %wybor%==1 goto 1
 if %wybor%==2 goto 2
 :1
 cls
-md = nowy folder
+md  nowy folder
 echo folder zostal utworzony!!!
 pause
 cls
